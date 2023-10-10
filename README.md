@@ -16,7 +16,7 @@ Anyone interested in working on this project can access the dataset and the code
 
 Where Users Can Get Help with the Project
 
-If anyone has doubts regarding the model and needs clarification, they can reach out to the project team members, Swetha Siripurappu and Shalon Walter, via email at siripurapu@arizona.edu
+If anyone has doubts regarding the model and needs clarification, they can reach out to the project team members, Swetha Siripurappu and Shalon Walter, via email at shalonwalter@arizona.edu, siripurapu@arizona.edu
 
 Who Maintains and Contributes to the Project
 
